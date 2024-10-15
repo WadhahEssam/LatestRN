@@ -2873,7 +2873,7 @@ __metadata:
     prettier: 2.8.8
     react: 18.3.1
     react-native: 0.76.0-rc.4
-    react-native-animateable-text: "github:axelra-ag/react-native-animateable-text#android-new-arch"
+    react-native-animateable-text: "github:axelra-ag/react-native-animateable-text#76-support"
     react-native-reanimated: 3.16.0-nightly-20241014-608a9093a
     react-test-renderer: 18.3.1
     typescript: 5.0.4
@@ -7822,9 +7822,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-animateable-text@github:axelra-ag/react-native-animateable-text#android-new-arch":
+"react-native-animateable-text@github:axelra-ag/react-native-animateable-text#76-support":
   version: 0.13.0
-  resolution: "react-native-animateable-text@https://github.com/axelra-ag/react-native-animateable-text.git#commit=faa69f4f86b0084abbdbf8c63124534207cddfbd"
+  resolution: "react-native-animateable-text@https://github.com/axelra-ag/react-native-animateable-text.git#commit=6ebb22569c723c9ac49fbfc5921b83181d5f97a9"
   dependencies:
     deprecated-react-native-prop-types: ^2.3.0
     nullthrows: ^1.1.1
@@ -7832,7 +7832,7 @@ __metadata:
     react: "*"
     react-native: ">=0.74.0"
     react-native-reanimated: ">=3"
-  checksum: abd0688fb3808a321bcb32b24bd284b0eb6e1470fe23f24db887380466ad3b5b659732fa90a083e43cdedbc8606cbd68b507026dadb64a11d59e2c6351db1958
+  checksum: 0a82e15dec9801f84f40a453b77ca52d13dc0966e1dacc302304fab482d3887cf0514533a08ac2bb2e7ed946a8cd93aea136da94479565fd2f6414dda7cff005
   languageName: node
   linkType: hard
 

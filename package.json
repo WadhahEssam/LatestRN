@@ -13,7 +13,7 @@
     "@miblanchard/react-native-slider": "^2.6.0",
     "react": "18.3.1",
     "react-native": "0.76.0-rc.4",
-    "react-native-animateable-text": "github:axelra-ag/react-native-animateable-text#android-new-arch",
+    "react-native-animateable-text": "github:axelra-ag/react-native-animateable-text#76-support",
     "react-native-reanimated": "3.16.0-nightly-20241014-608a9093a"
   },
   "devDependencies": {
