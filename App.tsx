@@ -33,7 +33,6 @@ export default function App() {
   const stringSharedValue = useSharedValue('1');
 
   const animatedProps = useAnimatedProps(() => {
-    console.log(stringSharedValue.value);
     return {
       text: stringSharedValue.value,
     };
@@ -56,6 +55,6 @@ export default function App() {
         }}
       />
       <AnimateableText selectable style={style} animatedProps={animatedProps} />
-    </View>
+      </View>
   );
 }
