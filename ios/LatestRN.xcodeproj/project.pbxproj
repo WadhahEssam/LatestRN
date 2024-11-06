@@ -11,10 +11,10 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1F4D4F0AF58416B7FC09BF57 /* libPods-LatestRN-LatestRNTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C48AD103955F2931B34AD9E5 /* libPods-LatestRN-LatestRNTests.a */; };
 		45A055EB1FD141D82333F541 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E0DD703A9A2CB9828088F3F5 /* PrivacyInfo.xcprivacy */; };
-		4E700D5B0EC04D4ACA046BC6 /* libPods-LatestRN.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AD0DEAF174AE1223B2AEF2E7 /* libPods-LatestRN.a */; };
-		68DCDD2014437B42D0243739 /* libPods-LatestRN-LatestRNTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EA5D9AABD550B5CDD471F5E8 /* libPods-LatestRN-LatestRNTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A7F09D17F98A8DD90684FEA6 /* libPods-LatestRN.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 16B60315A137773F2DA2762F /* libPods-LatestRN.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,14 +38,14 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = LatestRN/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = LatestRN/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = LatestRN/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		16B60315A137773F2DA2762F /* libPods-LatestRN.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LatestRN.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-LatestRN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatestRN.debug.xcconfig"; path = "Target Support Files/Pods-LatestRN/Pods-LatestRN.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-LatestRN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatestRN.release.xcconfig"; path = "Target Support Files/Pods-LatestRN/Pods-LatestRN.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-LatestRN-LatestRNTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatestRN-LatestRNTests.debug.xcconfig"; path = "Target Support Files/Pods-LatestRN-LatestRNTests/Pods-LatestRN-LatestRNTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = LatestRN/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-LatestRN-LatestRNTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatestRN-LatestRNTests.release.xcconfig"; path = "Target Support Files/Pods-LatestRN-LatestRNTests/Pods-LatestRN-LatestRNTests.release.xcconfig"; sourceTree = "<group>"; };
-		AD0DEAF174AE1223B2AEF2E7 /* libPods-LatestRN.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LatestRN.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C48AD103955F2931B34AD9E5 /* libPods-LatestRN-LatestRNTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LatestRN-LatestRNTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0DD703A9A2CB9828088F3F5 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = LatestRN/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		EA5D9AABD550B5CDD471F5E8 /* libPods-LatestRN-LatestRNTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LatestRN-LatestRNTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -54,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				68DCDD2014437B42D0243739 /* libPods-LatestRN-LatestRNTests.a in Frameworks */,
+				1F4D4F0AF58416B7FC09BF57 /* libPods-LatestRN-LatestRNTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,7 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E700D5B0EC04D4ACA046BC6 /* libPods-LatestRN.a in Frameworks */,
+				A7F09D17F98A8DD90684FEA6 /* libPods-LatestRN.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,8 +105,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				AD0DEAF174AE1223B2AEF2E7 /* libPods-LatestRN.a */,
-				EA5D9AABD550B5CDD471F5E8 /* libPods-LatestRN-LatestRNTests.a */,
+				16B60315A137773F2DA2762F /* libPods-LatestRN.a */,
+				C48AD103955F2931B34AD9E5 /* libPods-LatestRN-LatestRNTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
